@@ -9,3 +9,5 @@ def me():
 def m4():
 
     print('wait for m5')
+def 5():
+    print('successful')
