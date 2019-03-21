@@ -4,3 +4,5 @@ for i in range 10:
 my_list = [a,b,c,d]
 for i in my_list:
     print(i)
+    sadfjkasldfjlasldfjalskdf
+    asdfjkasldfjklsjdf
