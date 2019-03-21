@@ -6,3 +6,6 @@ def m3():
     pass
 def me():
     pass
+def m4():
+
+    print('wait for m5')
